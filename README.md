@@ -1,3 +1,9 @@
+# Student Names:
+Priyal Agrawal
+Miguel Covarrubias
+Kavya Mohan Sahai
+Wayne Arnold
+
 # Project-Team-5
 
 ### CMPE-272 Project Topics

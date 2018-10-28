@@ -12,7 +12,7 @@ Wayne Arnold
 ### CMPE-272 Project Topics
 
 ## Project Idea 1: 
-Spartan Project Reviewer
+Spartan Project Reviewer  - APPROVED
 
 ### Abstract: 
 In many of our university classes, we are required to work on projects. We often have to come up with our own projects ideas that will require the approval of the professor or TA. This can be a difficult process because there is not a really good way to submit your project ideas for the professor or TA to review. Even when all the ideas are submitted, it's a complete manual process for professor/TA to go through all the ideas, rate them and select the best ones.

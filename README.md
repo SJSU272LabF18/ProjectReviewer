@@ -9,9 +9,10 @@ Wayne Arnold
 
 # Project-Team-5
 
-### CMPE-272 Project Topics
+### CMPE - 272 Project
+Bluemix repository- https://git.ng.bluemix.net/miguel.covarrubias/spartanprojectreviewer
 
-## Project Idea 1: 
+## Project Idea: 
 Spartan Project Reviewer  - APPROVED
 
 ### Code Link: 
